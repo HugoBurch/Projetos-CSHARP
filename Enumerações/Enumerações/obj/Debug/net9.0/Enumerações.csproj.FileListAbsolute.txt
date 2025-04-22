@@ -1,0 +1,14 @@
+C:\temp\PrimeiroProjeto\Enumerações\Enumerações\bin\Debug\net9.0\Enumerações.exe
+C:\temp\PrimeiroProjeto\Enumerações\Enumerações\bin\Debug\net9.0\Enumerações.deps.json
+C:\temp\PrimeiroProjeto\Enumerações\Enumerações\bin\Debug\net9.0\Enumerações.runtimeconfig.json
+C:\temp\PrimeiroProjeto\Enumerações\Enumerações\bin\Debug\net9.0\Enumerações.dll
+C:\temp\PrimeiroProjeto\Enumerações\Enumerações\bin\Debug\net9.0\Enumerações.pdb
+C:\temp\PrimeiroProjeto\Enumerações\Enumerações\obj\Debug\net9.0\Enumerações.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\PrimeiroProjeto\Enumerações\Enumerações\obj\Debug\net9.0\Enumerações.AssemblyInfoInputs.cache
+C:\temp\PrimeiroProjeto\Enumerações\Enumerações\obj\Debug\net9.0\Enumerações.AssemblyInfo.cs
+C:\temp\PrimeiroProjeto\Enumerações\Enumerações\obj\Debug\net9.0\Enumerações.csproj.CoreCompileInputs.cache
+C:\temp\PrimeiroProjeto\Enumerações\Enumerações\obj\Debug\net9.0\Enumerações.dll
+C:\temp\PrimeiroProjeto\Enumerações\Enumerações\obj\Debug\net9.0\refint\Enumerações.dll
+C:\temp\PrimeiroProjeto\Enumerações\Enumerações\obj\Debug\net9.0\Enumerações.pdb
+C:\temp\PrimeiroProjeto\Enumerações\Enumerações\obj\Debug\net9.0\Enumerações.genruntimeconfig.cache
+C:\temp\PrimeiroProjeto\Enumerações\Enumerações\obj\Debug\net9.0\ref\Enumerações.dll

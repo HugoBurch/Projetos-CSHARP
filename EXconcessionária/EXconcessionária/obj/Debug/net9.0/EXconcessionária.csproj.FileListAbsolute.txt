@@ -1,0 +1,14 @@
+C:\temp\PrimeiroProjeto\EXconcessionária\EXconcessionária\obj\Debug\net9.0\EXconcessionária.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\PrimeiroProjeto\EXconcessionária\EXconcessionária\obj\Debug\net9.0\EXconcessionária.AssemblyInfoInputs.cache
+C:\temp\PrimeiroProjeto\EXconcessionária\EXconcessionária\obj\Debug\net9.0\EXconcessionária.AssemblyInfo.cs
+C:\temp\PrimeiroProjeto\EXconcessionária\EXconcessionária\obj\Debug\net9.0\EXconcessionária.csproj.CoreCompileInputs.cache
+C:\temp\PrimeiroProjeto\EXconcessionária\EXconcessionária\bin\Debug\net9.0\EXconcessionária.exe
+C:\temp\PrimeiroProjeto\EXconcessionária\EXconcessionária\bin\Debug\net9.0\EXconcessionária.deps.json
+C:\temp\PrimeiroProjeto\EXconcessionária\EXconcessionária\bin\Debug\net9.0\EXconcessionária.runtimeconfig.json
+C:\temp\PrimeiroProjeto\EXconcessionária\EXconcessionária\bin\Debug\net9.0\EXconcessionária.dll
+C:\temp\PrimeiroProjeto\EXconcessionária\EXconcessionária\bin\Debug\net9.0\EXconcessionária.pdb
+C:\temp\PrimeiroProjeto\EXconcessionária\EXconcessionária\obj\Debug\net9.0\EXconcessionária.dll
+C:\temp\PrimeiroProjeto\EXconcessionária\EXconcessionária\obj\Debug\net9.0\refint\EXconcessionária.dll
+C:\temp\PrimeiroProjeto\EXconcessionária\EXconcessionária\obj\Debug\net9.0\EXconcessionária.pdb
+C:\temp\PrimeiroProjeto\EXconcessionária\EXconcessionária\obj\Debug\net9.0\EXconcessionária.genruntimeconfig.cache
+C:\temp\PrimeiroProjeto\EXconcessionária\EXconcessionária\obj\Debug\net9.0\ref\EXconcessionária.dll

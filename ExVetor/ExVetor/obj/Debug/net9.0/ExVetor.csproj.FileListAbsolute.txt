@@ -1,0 +1,14 @@
+C:\temp\PrimeiroProjeto\ExVetor\ExVetor\bin\Debug\net9.0\ExVetor.exe
+C:\temp\PrimeiroProjeto\ExVetor\ExVetor\bin\Debug\net9.0\ExVetor.deps.json
+C:\temp\PrimeiroProjeto\ExVetor\ExVetor\bin\Debug\net9.0\ExVetor.runtimeconfig.json
+C:\temp\PrimeiroProjeto\ExVetor\ExVetor\bin\Debug\net9.0\ExVetor.dll
+C:\temp\PrimeiroProjeto\ExVetor\ExVetor\bin\Debug\net9.0\ExVetor.pdb
+C:\temp\PrimeiroProjeto\ExVetor\ExVetor\obj\Debug\net9.0\ExVetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\PrimeiroProjeto\ExVetor\ExVetor\obj\Debug\net9.0\ExVetor.AssemblyInfoInputs.cache
+C:\temp\PrimeiroProjeto\ExVetor\ExVetor\obj\Debug\net9.0\ExVetor.AssemblyInfo.cs
+C:\temp\PrimeiroProjeto\ExVetor\ExVetor\obj\Debug\net9.0\ExVetor.csproj.CoreCompileInputs.cache
+C:\temp\PrimeiroProjeto\ExVetor\ExVetor\obj\Debug\net9.0\ExVetor.dll
+C:\temp\PrimeiroProjeto\ExVetor\ExVetor\obj\Debug\net9.0\refint\ExVetor.dll
+C:\temp\PrimeiroProjeto\ExVetor\ExVetor\obj\Debug\net9.0\ExVetor.pdb
+C:\temp\PrimeiroProjeto\ExVetor\ExVetor\obj\Debug\net9.0\ExVetor.genruntimeconfig.cache
+C:\temp\PrimeiroProjeto\ExVetor\ExVetor\obj\Debug\net9.0\ref\ExVetor.dll
